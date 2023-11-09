@@ -19,14 +19,14 @@ function App() {
                 </div>
                 <div className="cards">
                     <div className="card">
-                        {/* <Spline className="scene" scene="https://prod.spline.design/EBsNP6QNnmHaUJg4/scene.splinecode" /> */}
+                        <Spline className="scene" scene="https://prod.spline.design/EBsNP6QNnmHaUJg4/scene.splinecode" />
                         <div className="content">
                             <h2>Flexible</h2>
                             <p>Technologies designed and manufactured to meet our clients&rsquo; individual specifications.</p>
                         </div>
                     </div>
                     <div className="card">
-                        {/* <Spline className="scene" scene="https://prod.spline.design/6cs9mFT71rndtyC1/scene.splinecode" /> */}
+                        <Spline className="scene" scene="https://prod.spline.design/6cs9mFT71rndtyC1/scene.splinecode" />
                         <div className="content">
                             <h2>Reliable</h2>
                             <p>
