@@ -16,11 +16,13 @@ main {
     display: flex;
     align-items: center;
     padding: 40px;
+    background: linear-gradient(to bottom, #e7eaee, #ced5dc);
 }
 
 section.about {
-    margin: 0 auto;
+    width: 100%;
     max-width: 1410px;
+    margin: 0 auto;
 }
 
 .heading {
@@ -28,7 +30,8 @@ section.about {
 
     @media (min-width: 768px) {
         display: flex;
-        gap: 20px;
+        justify-content: space-between;
+        gap: 100px;
         align-items: flex-end;
     }
 }
@@ -41,7 +44,7 @@ section.about {
 }
 
 h1 {
-    max-width: 1050px;
+    max-width: 940px;
     margin: 0 0 20px 0;
     font-weight: 400;
     font-size: clamp(24px, 3.4vw, 48px);

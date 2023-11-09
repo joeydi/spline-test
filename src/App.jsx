@@ -9,8 +9,8 @@ function App() {
                     <div>
                         <p className="eyebrow">Our Difference</p>
                         <h1>
-                            American Plating Power presents a robust offering of value-added services that provide benefits many
-                            standard solution providers cannot.
+                            Company Name presents a robust offering of value-added services that provide benefits many standard
+                            solution providers cannot.
                         </h1>
                     </div>
                     <a href="/" className="btn">
